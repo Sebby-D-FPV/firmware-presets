@@ -1,40 +1,38 @@
-#$ TITLE: Sebby_D's_OSD_NOGPS
+#$ TITLE: Sebby_D's_OSD_GPS
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: NO_GPS
+#$ KEYWORDS: GPS
 #$ AUTHOR: Sebby_D_FPV
 
 set osd_warn_batt_not_full = OFF
+set osd_warn_rssi = ON
 set osd_warn_link_quality = ON
-set osd_rssi_alarm = 90
-set osd_cap_alarm = 764
-set osd_alt_alarm = 0
+set osd_rssi_alarm = 0
+set osd_cap_alarm = 20000
+set osd_alt_alarm = 105
+set osd_logo_on_arming = ON
 set osd_logo_on_arming_duration = 15
 set osd_vbat_pos = 8696
 set osd_link_quality_pos = 14360
 set osd_rssi_dbm_pos = 14
 set osd_tim_2_pos = 2055
 set osd_flymode_pos = 6144
-set osd_craft_name_pos = 2547
+set osd_craft_name_pos = 2550
 set osd_display_name_pos = 2528
-set osd_gps_speed_pos = 96
-set osd_gps_sats_pos = 128
-set osd_home_dir_pos = 69
-set osd_home_dist_pos = 64
-set osd_warnings_pos = 14634
-set osd_avg_cell_voltage_pos = 14520
-set osd_disarmed_pos = 14603
+set osd_gps_speed_pos = 2144
+set osd_gps_sats_pos = 2176
+set osd_home_dir_pos = 2117
+set osd_home_dist_pos = 2112
+set osd_warnings_pos = 14601
+set osd_avg_cell_voltage_pos = 14488
+set osd_disarmed_pos = 14667
 set osd_esc_tmp_pos = 385
 set osd_flip_arrow_pos = 14396
 set osd_core_temp_pos = 2064
 set osd_stat_tim_1 = ON
-set osd_stat_max_spd = OFF
-set osd_stat_endbatt = ON
-set osd_stat_battery = ON
+set osd_stat_max_dist = ON
 set osd_stat_min_rssi = OFF
 set osd_stat_max_alt = ON
-set osd_stat_bbox = OFF
-set osd_stat_bb_no = OFF
 set osd_stat_min_link_quality = ON
 set osd_displayport_device = MSP

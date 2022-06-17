@@ -749,8 +749,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/Sebby_D's_OSD_GPS.txt",
+      "hash": "c4385f6e52402239fc924fc28a600ef33a8dba8777248304aa467884788751aa",
+      "title": "Sebby_D's_OSD_GPS",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "GPS"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/Sebby_D's_OSD_NOGPS.txt",
-      "hash": "ca5eda3eb29de3ba8d7d35188b3a24912944407fcc352f0acc1a8b91e9cde235",
+      "hash": "01f085b1dfb464ab9785e815bf65f39e8d0b7e36c8adafeaf239105500f6c4fc",
       "title": "Sebby_D's_OSD_NOGPS",
       "firmware_version": [
         "4.3"
