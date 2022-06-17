@@ -1,0 +1,19 @@
+#$ TITLE: Sebby_D's_Modes_JB_MOD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: modes, aux, switch
+#$ AUTHOR: Sebby_D_FPV
+#$ INCLUDE: C:\Users\Sebby_D_FPV\Documents\GitHub\firmware-presets\presets\4.3\modes\defaults.txt
+
+# aux switch settings
+
+aux 0 0 0 1700 2100 0 0
+aux 1 1 7 1175 1350 0 0
+aux 2 13 7 1425 1500 0 0
+aux 3 13 7 1100 1225 0 0
+aux 4 26 3 900 1300 0 0
+aux 5 31 3 1900 2100 0 0
+aux 6 35 7 900 1125 0 0
+aux 7 36 4 1300 1700 0 0
+aux 8 39 1 1950 2075 0 0

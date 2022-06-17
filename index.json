@@ -730,6 +730,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/Sebby_D's_Modes_JB_MOD.txt",
+      "hash": "f237d0f574182da61a103850e7e7439a225d4578a5111c3389af6f7e1acfffb7",
+      "title": "Sebby_D's_Modes_JB_MOD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "modes",
+        "aux",
+        "switch"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -1194,6 +1211,21 @@
         "rates"
       ],
       "author": "MinChan Kim",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/Sebby_D's_rates.txt",
+      "hash": "855287d2ee1882e094f7df4cc6bfb247210d3e12e0696ab875ac80912502a52e",
+      "title": "Sebby_D's_rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Sebby_D_FPV",
       "priority": 10000
     },
     {
