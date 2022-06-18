@@ -4,7 +4,8 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: modes, aux, switch
 #$ AUTHOR: Sebby_D_FPV
-#$ DESCRIPTION: Derived from JB's "all on one aux" configuration, adapted to ELRS and AirMode on a Switch and a Prearm Security
+#$ DESCRIPTION: Derived from JB's "all on one aux" configuration, adapted to ELRS, AirMode on a Switch and a Prearm Security
+#$ DESCRIPTION: Arm, Angle, Beeper, Blackbox, Blackbox Erase, Turtle Mode, PreArm, VTX Pitmode
 #$ INCLUDE: presets\4.3\modes\defaults.txt
 
 # aux switch settings
