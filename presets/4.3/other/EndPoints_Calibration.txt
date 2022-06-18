@@ -1,0 +1,16 @@
+#$ TITLE: EndPoints Calibration
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:  EndPoints
+#$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: Initial config Endpoints for most of my Quads 
+
+rxrange 0 988 2011
+rxrange 1 988 2011
+rxrange 2 988 2011
+rxrange 3 988 2011
+
+
+
+

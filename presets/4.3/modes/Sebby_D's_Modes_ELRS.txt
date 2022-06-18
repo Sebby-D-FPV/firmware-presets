@@ -1,4 +1,4 @@
-#$ TITLE: Sebby_D's_Modes
+#$ TITLE: Sebby_D's_Modes_ELRS
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: EXPERIMENTAL

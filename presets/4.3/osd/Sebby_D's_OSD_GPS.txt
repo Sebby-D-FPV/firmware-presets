@@ -4,6 +4,7 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: GPS
 #$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: OSD setup for GPS with SATS, SPEED, Distance to Home, etc...
 
 set osd_warn_batt_not_full = OFF
 set osd_warn_rssi = ON

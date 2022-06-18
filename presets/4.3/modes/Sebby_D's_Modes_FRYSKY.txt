@@ -1,0 +1,23 @@
+#$ TITLE: Sebby_D's_Modes_FRYSKY
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: modes, aux, switch
+#$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: Derived from JB's "all on one aux" configuration, adapted to ELRS, AirMode on a Switch and a Prearm Security
+#$ DESCRIPTION:
+#$ DESCRIPTION: Arm, Angle, Beeper, Turtle Mode,
+#$ INCLUDE: presets\4.3\modes\defaults.txt
+
+# aux switch settings
+
+aux 0 0 0 1850 1925 0 0
+aux 1 0 0 1600 1700 0 0
+aux 2 0 0 1350 1475 0 0
+aux 3 1 0 1600 1800 0 0
+aux 4 13 0 1925 1975 0 0
+aux 5 13 0 1825 1875 0 0
+aux 6 13 0 1725 1775 0 0
+aux 7 13 0 1600 1650 0 0
+aux 8 28 2 1400 2050 0 0
+aux 9 35 0 1350 1575 0 0

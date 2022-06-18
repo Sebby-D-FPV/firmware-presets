@@ -4,6 +4,7 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: rates
 #$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: Rates at 700
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = ACTUAL

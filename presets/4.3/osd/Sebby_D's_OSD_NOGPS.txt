@@ -4,6 +4,7 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: NO_GPS
 #$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: Plain OSD
 
 set osd_warn_batt_not_full = OFF
 set osd_warn_link_quality = ON

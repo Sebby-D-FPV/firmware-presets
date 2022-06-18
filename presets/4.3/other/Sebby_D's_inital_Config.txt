@@ -1,0 +1,20 @@
+#$ TITLE: Sebby_D's_inital_Config
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:  VBat, small angle, debug, Display name, etc..
+#$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: Initial config for most of my Quads
+
+
+set vbat_max_cell_voltage = 440
+set vbat_min_cell_voltage = 330
+set small_angle = 180
+set rate_6pos_switch = ON
+beeper -DISARM_REPEAT
+beeper -ARMED
+beeper -ON_USB
+set dshot_bidir = ON
+set report_cell_voltage = ON
+set debug_mode = GYRO_SCALED
+set display_name = Sebby_D_FPV

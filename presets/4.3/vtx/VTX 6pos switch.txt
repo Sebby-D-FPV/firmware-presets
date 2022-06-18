@@ -1,0 +1,14 @@
+#$ TITLE: VTX 6pos switch
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: VTX
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:  6pos switch, vtx
+#$ AUTHOR: Sebby_D_FPV
+#$ DESCRIPTION: VTX power on 6pos switch. Pitmode on 6 
+
+vtx 0 1 0 0 1 950 1050
+vtx 1 1 0 0 2 1125 1250
+vtx 2 1 0 0 3 1700 2100
+vtx 3 1 0 0 4 1350 1475
+vtx 4 1 0 0 0 1750 1875
+vtx 5 1 0 0 5 1950 2075

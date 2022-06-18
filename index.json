@@ -133,7 +133,6 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "3.5",
       "4.2",
       "4.3"
     ],
@@ -149,234 +148,81 @@
       "VTX"
     ],
     "author": [
-      "Alex Campbell (Chief)",
-      "Alex Vanover",
-      "AyyyKayyy - Anthony Knight",
       "Betaflight",
-      "BMSThomas",
       "ctzsnooze",
-      "Daniel Appel / Tehllama",
-      "Directory",
-      "DusKing1 (Hugo Chiang), Pitronic",
-      "Evan Turner (Headsup)",
-      "Feisar",
-      "FPVian",
-      "Garban",
-      "IllusionFpv",
-      "Ivan Efimov (Limon)",
-      "Joshua Bardwell",
-      "Justice - Gary Kent",
-      "MinChan Kim",
-      "mouseFPV",
       "Sebby_D_FPV",
-      "sugarK",
-      "SupaflyFPV",
-      "UAV Tech (Mark Spatz)"
+      "sugarK"
     ],
     "keywords": [
-      "\\\\GAS",
       "111hz",
       "150Hz",
-      "1S",
       "20ms",
       "250Hz",
-      "2in",
-      "2S",
-      "3 inch",
-      "3.5in",
-      "3\"",
-      "3in",
-      "4in",
-      "4S",
-      "5 In",
-      "5 Inch",
-      "5\"",
       "500Hz",
       "50Hz",
-      "533",
-      "5in",
-      "6 Inch",
-      "6\"",
-      "65mm",
-      "6in",
-      "6S",
-      "7 Inch",
-      "7\"",
-      "7in",
-      "8\"",
-      "8in",
-      "8S",
-      "9\"",
-      "9in",
+      "6pos switch",
       "9ms",
-      "acro",
-      "Acrobaix",
       "actual",
       "adjustments",
-      "AlexFPV",
-      "AOS",
       "aux",
-      "AyyyKayyy",
-      "bando",
-      "bardwell",
-      "basher",
       "basic",
-      "betaflight",
-      "blackbox",
-      "BMI270",
-      "BMSThomas",
-      "brushless",
-      "camera",
-      "camera_control",
-      "Cgo",
-      "Chief",
-      "cinelifter",
-      "cinematic",
-      "cinewhoop",
-      "clean",
       "clear",
-      "Configure",
-      "control",
-      "ctzsnooze",
-      "CTZsoonze",
-      "DDC",
+      "debug",
       "default",
       "defaults",
       "digital",
-      "disable",
+      "Display name",
       "divimath",
-      "DShot telemetry",
-      "dual",
       "ELRS",
-      "expert",
+      "EndPoints",
+      "etc..",
       "express",
-      "feisar",
       "filter",
-      "filtering",
       "filters",
-      "five33",
-      "fpvian",
-      "freedom",
-      "freedom spec",
       "freestyle",
-      "freesytle",
-      "freetyle",
       "frsky",
-      "Garban",
       "GPS",
-      "gyro",
-      "gyroflow",
-      "gyros",
-      "gyroscope",
-      "HD",
       "HDzero",
-      "Headsup",
-      "hot",
-      "IllusionFpv",
-      "justice",
-      "karate",
-      "KarateBrot",
-      "launch",
-      "launch_mode",
+      "karatebrot",
       "leds",
-      "Limon",
       "link",
-      "log",
-      "logging",
-      "long range",
-      "meteor",
-      "MinChan",
+      "Mamba",
       "mode",
       "modes",
-      "MultiGP",
-      "names",
       "nano",
-      "no rpm",
       "NO_GPS",
-      "noisy",
-      "normal",
-      "OpenRacer",
       "OSD",
-      "partial",
-      "Passthrough",
       "pid",
       "pro32",
-      "profile",
-      "quaddiction",
-      "quick",
-      "race",
-      "race rates ctzsnooze actual",
       "race v1",
       "race v2",
-      "racing",
       "rates",
       "RC",
       "rc link",
       "rc_link",
       "rc_smoothing",
       "reset",
-      "reset statistics",
-      "RPM",
-      "russia",
       "Rx",
       "SA 2.1",
       "sbus",
-      "settings",
-      "shames",
+      "small angle",
       "smoothing",
-      "some",
-      "spec",
-      "stats",
-      "suagrK",
-      "sugarK",
-      "Supafly",
-      "SupaflyFPV",
       "switch",
+      "table",
       "tbs",
-      "texas",
-      "tiny",
-      "tinyTrainer",
-      "toothpic",
-      "trainer",
       "tune",
-      "twig",
+      "TX500",
       "tx5m.1",
       "unify",
-      "utility",
-      "vanover",
-      "very",
-      "very clean",
-      "very noisy",
+      "VBat",
       "vtx",
       "vtx table",
       "vtxtable",
       "whoop",
-      "whoop lite",
-      "whooptopia",
-      "world champion",
-      "youtube"
+      "whoop lite"
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
-      "hash": "751a6f316eb81fd94215291eb35b719cc52d9ca66baa53668d495f8351e1156c",
-      "title": "ctzsnooze's race filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race",
-        "filter",
-        "filters",
-        "ctzsnooze",
-        "RPM"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "365d91285f53f2ad0a1521a158d498840143f2d566d511397ab19f2f402a920e",
@@ -393,302 +239,6 @@
         "reset"
       ],
       "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_clean.txt",
-      "hash": "a49b93320ce1ae4503a2e43061fd00b7fad70ad6d44acb4d97e040163eb72419",
-      "title": "4.3 Filter settings for CLEAN build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "clean",
-        "no rpm",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_noisy.txt",
-      "hash": "04de8d94400cc218d57ff0896cdce43c3784ddd2c5b65381631b13a7dc09cc88",
-      "title": "4.3 Filter settings for NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "noisy",
-        "no rpm",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_normal.txt",
-      "hash": "d7d779631e27f231832409940c0f61cd8408a01acc578166f449999440e602e5",
-      "title": "4.3 Filter settings for NORMAL build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "normal",
-        "no rpm",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_very_clean.txt",
-      "hash": "fc2bcbbae89d4c42d459d16938c20a80fc8d541123e37e7dcad89c5756b3241a",
-      "title": "4.3 Filter settings for VERY CLEAN build WITHOUT RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "no rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_very_noisy.txt",
-      "hash": "e742664e14b7a69434cb235205151942ef7f93b09695ecae70d9790141e7590a",
-      "title": "4.3 Filter settings for VERY NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "very noisy",
-        "very",
-        "noisy",
-        "no rpm",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_clean.txt",
-      "hash": "74245724c57bb8e839d05a92110150515350060cf71c3a28b37e83cc61569456",
-      "title": "4.3 Filter settings for CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "clean",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_noisy.txt",
-      "hash": "d2f73d2aa33cbbc2829ec7331b779a1f0f25608b7e6fe1539525d4078bd462b6",
-      "title": "4.3 Filter settings for NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "noisy",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_normal.txt",
-      "hash": "514677251d86ed5f7894e61fabbb8449f74a53efda71ceff6caa0a2f86acc16c",
-      "title": "4.3 Filter settings for NORMAL build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "normal",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_very_clean.txt",
-      "hash": "148d14351390490e81f7f868afff72a8252e35bdd294bfa9da983eb34b293490",
-      "title": "4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_very_noisy.txt",
-      "hash": "f9eb86fb1d3d334e8647621a847d08a38ff781860a0f15632f485ff11fe0d117",
-      "title": "4.3 Filter settings for VERY NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very",
-        "noisy",
-        "very noisy",
-        "hot",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/dusking_BMI270.txt",
-      "hash": "0dd77e8e1baed07019f836352818d0b8eccb1125f5123511cc25cb0118591a8d",
-      "title": "DusKing's BMI270 filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "BMI270",
-        "filter",
-        "filters",
-        "gyroscope",
-        "gyro",
-        "gyros",
-        "settings",
-        "RPM"
-      ],
-      "author": "DusKing1 (Hugo Chiang), Pitronic",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/dusking_BMI270_dual.txt",
-      "hash": "359a3d4d5391cb3c30bec79cc00db8dbb39de19c587bd8584930c1d21e06cb3e",
-      "title": "DusKing's dual BMI270 filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "BMI270",
-        "filter",
-        "filters",
-        "dual",
-        "gyroscope",
-        "gyro",
-        "gyros",
-        "settings",
-        "RPM"
-      ],
-      "author": "DusKing1 (Hugo Chiang), Pitronic",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "7d4913bf9839cc9bb055ab942a22c3c015a2f258e30633a07edcaaf98eb85df0",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
       "priority": 100
     },
     {
@@ -730,9 +280,26 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/Sebby_D's_Modes.txt",
-      "hash": "e13d40a93978db10e01e6c5ab8a628db06139d6a32e52e9f71d45b38fae0f3d3",
-      "title": "Sebby_D's_Modes",
+      "fullPath": "presets/4.3/modes/Sebby_D's_Modes_ELRS.txt",
+      "hash": "f7e0906bdf417163c546de344b0a038402f96e5e754237961f4a3dd4d94440a8",
+      "title": "Sebby_D's_Modes_ELRS",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "modes",
+        "aux",
+        "switch"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/Sebby_D's_Modes_FRYSKY.txt",
+      "hash": "221f2462906daaf2438a85c3f398941546b36a817829ab39a0a0a1729761e66a",
+      "title": "Sebby_D's_Modes_FRYSKY",
       "firmware_version": [
         "4.3"
       ],
@@ -765,7 +332,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Sebby_D's_OSD_GPS.txt",
-      "hash": "c4385f6e52402239fc924fc28a600ef33a8dba8777248304aa467884788751aa",
+      "hash": "6c8f9834494da37626bf097ffd63f7dd462d9b331ecce5c3fd88aa7bde4c0eb7",
       "title": "Sebby_D's_OSD_GPS",
       "firmware_version": [
         "4.3"
@@ -780,7 +347,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Sebby_D's_OSD_NOGPS.txt",
-      "hash": "01f085b1dfb464ab9785e815bf65f39e8d0b7e36c8adafeaf239105500f6c4fc",
+      "hash": "9d51d8b17bf1d191b51b21612805c3b5997d6f13e1139a938009d9007c0cd385",
       "title": "Sebby_D's_OSD_NOGPS",
       "firmware_version": [
         "4.3"
@@ -794,279 +361,38 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/blackbox_disable.txt",
-      "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
-      "title": "4.3 Blackbox disable settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "blackbox",
-        "logging",
-        "log",
-        "disable",
-        "sugarK"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
-      "hash": "fcee0c30a390f30b0ef92dbba0cc15285674d4c9fdab23a0b469753d2efeaa9a",
-      "title": "ExpressLRS Passthrough Betaflight Settings",
-      "firmware_version": [
-        "3.5",
-        "4.2",
-        "4.3"
-      ],
-      "status": "OFFICIAL",
-      "category": "OTHER",
-      "keywords": [
-        "ELRS",
-        "Passthrough",
-        "Configure",
-        "utility"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/gyroflow_min_blackbox.txt",
-      "hash": "15c71e564d549b8e3abd80026c83ff17241606137af32dd5a7b6f42ee228cc4c",
-      "title": "Gyroflow minimum settings",
+      "fullPath": "presets/4.3/other/EndPoints_Calibration.txt",
+      "hash": "0df50006b760f5dd04aec697d8b618a445f314b51f4b4965773ccb35e29bf39f",
+      "title": "EndPoints Calibration",
       "firmware_version": [
         "4.3"
       ],
       "category": "OTHER",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "gyroflow",
-        "blackbox",
-        "log",
-        "DDC",
-        "Acrobaix",
-        "Garban"
+        "EndPoints"
       ],
-      "author": "Garban",
+      "author": "Sebby_D_FPV",
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/reset_blackbox.txt",
-      "hash": "30dc088a9a24dbbbea774d4d23eb29be85da9f4a78844e23e8b4ae7ff49bd090",
-      "title": "Reset 4.3 Blackbox settings",
+      "fullPath": "presets/4.3/other/Sebby_D's_inital_Config.txt",
+      "hash": "c3f538a6ee5335d426df74edd05bb9706e28d0eaceb7ab92386930b91fc54cc6",
+      "title": "Sebby_D's_inital_Config",
       "firmware_version": [
         "4.3"
       ],
       "category": "OTHER",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
-        "defaults",
-        "reset",
-        "blackbox",
-        "logging",
-        "log"
+        "VBat",
+        "small angle",
+        "debug",
+        "Display name",
+        "etc.."
       ],
-      "author": "Betaflight",
+      "author": "Sebby_D_FPV",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_camera_control.txt",
-      "hash": "837147e19b29bed6e3d6ab21d7d9bd291f8b38f9a378bd9b2ba075be7275fb0a",
-      "title": "Reset Camera Control settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "camera",
-        "control",
-        "camera_control"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_gps.txt",
-      "hash": "08a6638077cc4246ea23e7bfbb9d4759b31c0243a0f326b7379270039bd3a773",
-      "title": "Reset GPS settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "GPS"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_launch_mode.txt",
-      "hash": "e4a11824ea2e2426160e68a161ffc15ecb2f6d2436aeb84d76967c86f11ed491",
-      "title": "Reset Launch Mode settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "launch",
-        "launch_mode"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_names.txt",
-      "hash": "84a26fc8b78aefb8e4a9b0c01684ea8d207b35d0332edc3118885d60854a18c9",
-      "title": "Reset 4.3 Names",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "profile"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_servo.txt",
-      "hash": "4b54c73d5472a403fc0f15ebcef2951ada94a5b5ecd5111c31e7f1ee494d00ec",
-      "title": "Reset 4.3 Stats",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset statistics",
-        "stats"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_stats.txt",
-      "hash": "557798e6885b64e7f3a238fc9d22ae3c61300b3d977c113ef14a4d74f38f0a84",
-      "title": "Reset 4.3 Stats",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset statistics",
-        "stats"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "fe0db350b5775b7b2ceaf54ce51ddaef1b3f813e707e09c127943bc07c1d1f92",
-      "title": "Joshua Bardwell rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "youtube",
-        "bardwell",
-        "freestyle"
-      ],
-      "author": "Joshua Bardwell",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "b7475cbcf6113cc01385f282c8d85bfee258cc7256aabdb9d995fcbaa6304cb5",
-      "title": "BMSThomas racing/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "BMSThomas",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "BMSThomas",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "0dfc7151103bda6cae83aa843512857906e31fb16ba408c11cc7840a34c8ebf8",
-      "title": "CGo race rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "MultiGP",
-        "quaddiction",
-        "Cgo"
-      ],
-      "author": "sugarK",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "91a2eb51e96dae61376a4b218476c024ff8410c697af7252060dbf880a6c020d",
-      "title": "Chief race/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "race",
-        "Chief",
-        "AlexFPV",
-        "racing",
-        "\\\\GAS",
-        "freestyle"
-      ],
-      "author": "Alex Campbell (Chief)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "c580ff16eac1b602195f1194caff3da0476d55c9bc7e527f7b0ba8b67774c24b",
-      "title": "race rates by ctzsnooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race rates ctzsnooze actual"
-      ],
-      "author": "ctzsnooze",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
@@ -1086,136 +412,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "2478b869e459450024e482488d4fa3103528d449db747f48e2e873eb18d77a9c",
-      "title": "Directory freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "Directory",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "e5ecd4c804d9c099c7c8b99c386e484d8bffe32fc748e4ecd55d17e74297f5c1",
-      "title": "Feisar freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight",
-        "feisar"
-      ],
-      "author": "Feisar",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "38458536a284eccd15f779595d9bb18b833ac5b4a6bd2787f0ee51fb88f490b2",
-      "title": "Garban Official race rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Headsup533.txt",
-      "hash": "82f3e158de3b4e037551a672dabaa752e44943c9b13f6ebf33c092c9d63dade1",
-      "title": "Headsup racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "Headsup",
-        "533",
-        "five33",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Evan Turner (Headsup)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "79a4e23fec488266e4e3ac174235d49bf013154b83caf0c8f5e223135be0f5f6",
-      "title": "freestyle rates by IllusionFpv",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "freestyle",
-        "rates",
-        "IllusionFpv",
-        "quick"
-      ],
-      "author": "IllusionFpv",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "07372fdf1beee407d23e977a89f414c40dc1aaa620069c46a2b0a51bd49da2a0",
-      "title": "Limon racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "racing",
-        "Limon",
-        "OpenRacer",
-        "texas",
-        "russia",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "2ec0aa7511e5642e28f82211380594a2efbf6e6e801942f1151d2fb5a9658c50",
-      "title": "MinChan Kim racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "MinChan",
-        "rates"
-      ],
-      "author": "MinChan Kim",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.3/rates/Sebby_D's_rates.txt",
-      "hash": "855287d2ee1882e094f7df4cc6bfb247210d3e12e0696ab875ac80912502a52e",
+      "hash": "2b9b0fc23cfe9ac3a55133a1d7334cf52a1277ee4214fc7c47c3429caa0f7a12",
       "title": "Sebby_D's_rates",
       "firmware_version": [
         "4.3"
@@ -1226,44 +424,6 @@
         "rates"
       ],
       "author": "Sebby_D_FPV",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "b0ca5a2a097e8b90f0aa50cbc72936512b4adfdde9a83cff76bd05fc87d36e62",
-      "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "whoop",
-        "freetyle",
-        "cinematic",
-        "HD"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Vanover.txt",
-      "hash": "a967f62ea2403b1cae5036cdc2e08e5964d4722640e7578048b95ab356658cc6",
-      "title": "Vanover racing/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "vanover",
-        "rates",
-        "MultiGP",
-        "freestyle"
-      ],
-      "author": "Alex Vanover",
       "priority": 10000
     },
     {
@@ -1418,29 +578,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "ffab8a4f6a116e72b15a4f40eef954b393890d55792df7b3e3de4c684084e5c8",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "e0d4f600277f68d45120b00656d994af8e0492cdfc7f14f6ac2542ed4a781723",
       "title": "Tune defaults for Basic 4.3 TUNES",
@@ -1459,424 +596,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "63dc4b90e64d4e88e245820dfb88572706708ce82951cf4ef227e7b6d90a5c8a",
-      "title": "Basher Freestyle 6S 5\" by FPVian",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "basher",
-        "freestyle",
-        "5 Inch",
-        "5 In",
-        "5\"",
-        "bando",
-        "fpvian"
-      ],
-      "author": "FPVian",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
-      "hash": "5ac3216c39f3b1b630d6938ac943e3b00c38e15585394413d0d424f634db5e16",
-      "title": "Freedom Spec 460 - 500g",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "freedom",
-        "freedom spec",
-        "headsup",
-        "five33",
-        "533",
-        "racing",
-        "race",
-        "5\""
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_freestyle_5_inch.txt",
-      "hash": "f01d120cbd51bfee298a8ba8b78d9fb6577fbc20d2b36b699f9215d47135df31",
-      "title": "Freestyle 5\" Karate Style",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot",
-        "freestyle"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race.txt",
-      "hash": "626e85505453bbfa17c2fa2ad2e87425acea943c6810992619a07382921ed42c",
-      "title": "Karate Race 6s 5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "195960fb564c4fc531874304256428d53d0015dbc3916cbccb6669eb7b6a66fe",
-      "title": "AOS 3.5 V1 4s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "AOS",
-        "4s"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/reset_all.txt",
-      "hash": "5b9d76fd857aa8637c394a13e86f4dc651173ca559afe3f61556ff2b0742f347",
-      "title": "Reset 4.3 Tune parameters, complete listing",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "expert",
-        "default"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/reset_some.txt",
-      "hash": "3fa44efe126b5d69036e960559722306bce24c7f1176698a5ff6be21adc2996d",
-      "title": "Reset selected 4.3 Tune related settings.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "default",
-        "some",
-        "partial"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "3dc7346f137921b25a16da6b0aa70f500f2c0059edbbb67644f9c79eb94bb9d3",
-      "title": "SupaflyFPV Freestyle 5 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "4S",
-        "6S",
-        "Freestyle",
-        "5 inch",
-        "5\""
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "62d190dd6030d0f3779e67dcbd24bd9ffa3162bab2a24cc090d9bc6c15432a77",
-      "title": "SupaflyFPV Freestyle 6 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "Freestyle",
-        "6\"",
-        "6 Inch"
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "49fe93d94e826091b38c9260885e3958ec621bccb0e1cd313a7785e62b22b6e9",
-      "title": "SupaflyFPV Freestyle 7 Inch",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Supafly",
-        "SupaflyFPV",
-        "Freestyle",
-        "7\"",
-        "7 Inch"
-      ],
-      "author": "SupaflyFPV",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/tiny_karate.txt",
-      "hash": "a417f87aae3f44caffc5fbf43a6b538053db73b74a94ecb762a362de739d32c5",
-      "title": "533 TinyTrainer Karate",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "race",
-        "533",
-        "3 inch",
-        "3\"",
-        "sugarK",
-        "shames",
-        "tiny",
-        "trainer",
-        "spec",
-        "tinyTrainer"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_5in.txt",
-      "hash": "db11ec74fa5760f5b31c90197f79be79458248ea146f7a3ced7525519d4c9305",
-      "title": "UAV Tech - 5in (~630g AUW)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "4S",
-        "6S",
-        "5in",
-        "5\"",
-        "freestyle"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_6-7in.txt",
-      "hash": "7e7c3901d6989dfabd8bb91fe13a9983eef5d425a2f6da1ad079357096be1a2e",
-      "title": "UAV Tech - 6-7in (~700g AUW)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "4S",
-        "6S",
-        "6in",
-        "7in",
-        "6\"",
-        "7\"",
-        "freestyle",
-        "long range"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_8-9in.txt",
-      "hash": "7a86ab26a50a7e3fe1d2e506a4486e03672787ecd63b1a233989cf900fb72cea",
-      "title": "UAV Tech - 8-9in (~750g AUW)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "4S",
-        "6S",
-        "8in",
-        "9in",
-        "8\"",
-        "9\"",
-        "freestyle",
-        "long range"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_8-9in_Cinelifter.txt",
-      "hash": "3095ffbd6584fe3af610bbc7cc9a14b002082e644b20e7a36cffb5d792288cab",
-      "title": "UAV Tech - 8-9in Cinelifter (>2,000g AUW)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "8S",
-        "8in",
-        "9in",
-        "8\"",
-        "9\"",
-        "cinelifter"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_Cinewhoop.txt",
-      "hash": "d408ae55e64986f84cf8d07428200b4dc88b44e3b30ef2df711818d2ecc17c4d",
-      "title": "UAV Tech - Cinewhoop",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "cinewhoop"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_Toothpic.txt",
-      "hash": "4453e4d8a25f97a96de25e53ef29e77961cd2f2335e15205251599a28aa740af",
-      "title": "UAV Tech - Toothpic (2in to 4in)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "2S",
-        "4S",
-        "6S",
-        "toothpic",
-        "2in",
-        "3in",
-        "3.5in",
-        "4in"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/UAV_tech_Whoop.txt",
-      "hash": "bb4f0552015b1e5109dac54610a82759bceba8f84fbd28909bd342095cf5347f",
-      "title": "UAV Tech - Whoop (1S & 2S)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
-      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
-      "title": "Whoop race tune by AyyyKayyy",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "AyyyKayyy",
-        "meteor",
-        "whooptopia",
-        "brushless"
-      ],
-      "author": "AyyyKayyy - Anthony Knight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "8ffd94378502eb5498b290188345b98b9ad8c4d117d8f87edbedbfa179eb119b",
-      "title": "Whoop race tune by Justice",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "justice",
-        "meteor"
-      ],
-      "author": "Justice - Gary Kent",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
@@ -1944,6 +663,24 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/MAMBA_TX500_0401_VTX_Table.txt",
+      "hash": "5151374f00be18cdffc178dfca0475ec55cba3b1a60d5165ac0b6a6f99923334",
+      "title": "MAMBA_TX500_0401_VTX_Table",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Mamba",
+        "TX500"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
       "hash": "d0ba39e4ac3552a2f52aad85abc010cae1cc799e33adc192acd26cf704bac62f",
       "title": "TBS Unify Pro32 Nano - SA 2.1",
@@ -1963,6 +700,22 @@
         "SA 2.1"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/VTX 6pos switch.txt",
+      "hash": "affc4278b253e92f3ff0bf0137ecae13456c74a560425cc8a51497569ae34041",
+      "title": "VTX 6pos switch",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "6pos switch",
+        "vtx"
+      ],
+      "author": "Sebby_D_FPV",
       "priority": 1000000
     }
   ]
