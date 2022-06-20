@@ -189,7 +189,7 @@
       "Mamba",
       "mode",
       "modes",
-      "nano",
+      "Nano",
       "NO_GPS",
       "OSD",
       "pid",
@@ -219,7 +219,8 @@
       "vtx table",
       "vtxtable",
       "whoop",
-      "whoop lite"
+      "whoop lite",
+      "Zeus"
     ]
   },
   "presets": [
@@ -332,7 +333,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Sebby_D's_OSD_GPS.txt",
-      "hash": "6c8f9834494da37626bf097ffd63f7dd462d9b331ecce5c3fd88aa7bde4c0eb7",
+      "hash": "eb0b11afddda2ebd901099253e7be7c68eff5c712563eb39846185da7c04c7d0",
       "title": "Sebby_D's_OSD_GPS",
       "firmware_version": [
         "4.3"
@@ -347,7 +348,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Sebby_D's_OSD_NOGPS.txt",
-      "hash": "9d51d8b17bf1d191b51b21612805c3b5997d6f13e1139a938009d9007c0cd385",
+      "hash": "4398f9ce0ec73185394b8b97b85d227fd1723cac1d4c098ffde14ea5933c7bdc",
       "title": "Sebby_D's_OSD_NOGPS",
       "firmware_version": [
         "4.3"
@@ -636,7 +637,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HDZero.txt",
-      "hash": "4f0c6e6b29ac96bb5cf020a9117f50587cb42a4cf2bfe4537f9141ac9b08ef0b",
+      "hash": "802f5dab99316d7b0c22bd4813817eb7a207d3c401adfc6a90cd3966b64fd12f",
       "title": "HDZero VTXs",
       "firmware_version": [
         "4.2",
@@ -663,8 +664,26 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/HGLRC_Zeus_Nano_VTX.txt",
+      "hash": "4fb46c61415104ad1934ff76aa1ebcdcf5377e490fb7321a90cd6b786984f737",
+      "title": "HGLRC_Zeus_Nano_VTX_Table",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Nano",
+        "Zeus"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/MAMBA_TX500_0401_VTX_Table.txt",
-      "hash": "5151374f00be18cdffc178dfca0475ec55cba3b1a60d5165ac0b6a6f99923334",
+      "hash": "e7d53f92e858c012ce63e64c970b395f7dfbed211e1ec875ed19387daf05a1d5",
       "title": "MAMBA_TX500_0401_VTX_Table",
       "firmware_version": [
         "4.3"
@@ -704,7 +723,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/VTX 6pos switch.txt",
-      "hash": "affc4278b253e92f3ff0bf0137ecae13456c74a560425cc8a51497569ae34041",
+      "hash": "6c9744ed9743f4e84bdea4a7b6b0201a6c4d4f93a1d513b10ca883d7aed28a0b",
       "title": "VTX 6pos switch",
       "firmware_version": [
         "4.3"

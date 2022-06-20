@@ -5,6 +5,7 @@
 #$ KEYWORDS:  6pos switch, vtx
 #$ AUTHOR: Sebby_D_FPV
 #$ DESCRIPTION: VTX power on 6pos switch. Pitmode on 6 
+#$ INCLUDE: presets/4.3/vtx/defaults.txt
 
 vtx 0 1 0 0 1 950 1050
 vtx 1 1 0 0 2 1125 1250
