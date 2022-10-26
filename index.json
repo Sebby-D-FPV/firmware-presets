@@ -137,6 +137,7 @@
       "4.3"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -224,6 +225,19 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/bnf/Mobula 7 Parascolaire.txt",
+      "hash": "882af4e40298c486ca11a4bd55846d8e884bea8fed151ab2ed23e3f4875d669d",
+      "title": "Mobula7 1s Parascolaire",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "365d91285f53f2ad0a1521a158d498840143f2d566d511397ab19f2f402a920e",
