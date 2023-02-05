@@ -134,7 +134,8 @@
   "uniqueValues": {
     "firmware_version": [
       "4.2",
-      "4.3"
+      "4.3",
+      "4.4"
     ],
     "category": [
       "BNF",
@@ -227,7 +228,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/Mobula 7 Parascolaire.txt",
-      "hash": "882af4e40298c486ca11a4bd55846d8e884bea8fed151ab2ed23e3f4875d669d",
+      "hash": "ba825c7037c695b6c78e272d67bd0befac4b1e1c8d38dcdc20e6f005e40385cc",
       "title": "Mobula7 1s Parascolaire",
       "firmware_version": [
         "4.3"
@@ -296,10 +297,11 @@
     },
     {
       "fullPath": "presets/4.3/modes/Sebby_D's_Modes_ELRS.txt",
-      "hash": "ab5dd1f86531fe2cf92165b5efb0cc42624884444a2d669f874b66d8fbb75e80",
+      "hash": "7dd22dbcdc70e75917bda465d7869bb35f61cc714b46cd46b7ba4271acc790ec",
       "title": "Sebby_D's_Modes_ELRS",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -313,10 +315,11 @@
     },
     {
       "fullPath": "presets/4.3/modes/Sebby_D's_Modes_FRYSKY.txt",
-      "hash": "221f2462906daaf2438a85c3f398941546b36a817829ab39a0a0a1729761e66a",
+      "hash": "4c3670e1aba66e601070832679e74dcbec07a85670b3343e2d552b4e154d4841",
       "title": "Sebby_D's_Modes_FRYSKY",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -377,10 +380,11 @@
     },
     {
       "fullPath": "presets/4.3/other/EndPoints_Calibration.txt",
-      "hash": "0df50006b760f5dd04aec697d8b618a445f314b51f4b4965773ccb35e29bf39f",
+      "hash": "3257426a5f3e4aa9782f1a0eec9e64b0a5572cd7b4b74e46d6d63233f71cf853",
       "title": "EndPoints Calibration",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "OTHER",
       "status": "EXPERIMENTAL",
@@ -392,10 +396,11 @@
     },
     {
       "fullPath": "presets/4.3/other/Sebby_D's_inital_Config.txt",
-      "hash": "c3f538a6ee5335d426df74edd05bb9706e28d0eaceb7ab92386930b91fc54cc6",
+      "hash": "864150be28e47b9703a07f2ab70d7000282be67e37596f7f90c63d2dd356375f",
       "title": "Sebby_D's_inital_Config",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "OTHER",
       "status": "EXPERIMENTAL",
@@ -428,7 +433,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/Sebby_D's_rates.txt",
-      "hash": "4e7106ad40e23fd865419de6a00412ccec56e292330747e49da8b25808d3a57c",
+      "hash": "1f1ad98db8352ca0fa75061f78a9ac3468caf91eec041fad9142f33086807f83",
       "title": "Sebby_D's_rates",
       "firmware_version": [
         "4.3"
@@ -679,10 +684,11 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HGLRC_Zeus_Nano_VTX.txt",
-      "hash": "4fb46c61415104ad1934ff76aa1ebcdcf5377e490fb7321a90cd6b786984f737",
+      "hash": "a82962cab2aff4ea4acae888e3fd0a6fd0af117f54db48d87db15c6d44e5782a",
       "title": "HGLRC_Zeus_Nano_VTX_Table",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
@@ -697,10 +703,11 @@
     },
     {
       "fullPath": "presets/4.3/vtx/MAMBA_TX500_0401_VTX_Table.txt",
-      "hash": "e7d53f92e858c012ce63e64c970b395f7dfbed211e1ec875ed19387daf05a1d5",
+      "hash": "76c334b657e5a6ad1f3346086e4b27a80a4d567c4252ebff9c54d102b60baa4b",
       "title": "MAMBA_TX500_0401_VTX_Table",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
@@ -715,11 +722,12 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
-      "hash": "d0ba39e4ac3552a2f52aad85abc010cae1cc799e33adc192acd26cf704bac62f",
+      "hash": "5cd96ef3198c56a095887f66b34920635167597b06ef9af1d908481e73034b72",
       "title": "TBS Unify Pro32 Nano - SA 2.1",
       "firmware_version": [
         "4.2",
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "VTX",
       "status": "COMMUNITY",

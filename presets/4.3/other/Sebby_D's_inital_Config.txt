@@ -1,5 +1,6 @@
 #$ TITLE: Sebby_D's_inital_Config
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OTHER
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS:  VBat, small angle, debug, Display name, etc..
@@ -17,4 +18,3 @@ beeper -ON_USB
 set dshot_bidir = ON
 set report_cell_voltage = ON
 set debug_mode = GYRO_SCALED
-set display_name = Sebby_D_FPV
