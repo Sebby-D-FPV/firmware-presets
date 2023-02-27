@@ -228,7 +228,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/Mobula 7 Parascolaire.txt",
-      "hash": "ba825c7037c695b6c78e272d67bd0befac4b1e1c8d38dcdc20e6f005e40385cc",
+      "hash": "882af4e40298c486ca11a4bd55846d8e884bea8fed151ab2ed23e3f4875d669d",
       "title": "Mobula7 1s Parascolaire",
       "firmware_version": [
         "4.3"
@@ -758,6 +758,21 @@
       ],
       "author": "Sebby_D_FPV",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_DJI.txt",
+      "hash": "2162bcc821e8eb6d0cc4fd446282d27576a3dd5241db3bf5bc9996331b550e29",
+      "title": "Sebby_D's_OSD_GPS_DJI",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "GPS"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
     }
   ]
 }
