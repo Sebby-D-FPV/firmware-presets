@@ -6,7 +6,6 @@
 #$ AUTHOR: Sebby_D_FPV
 #$ DESCRIPTION: OSD setup for GPS with SATS, SPEED, Distance to Home, etc...
 
-
 osd_units = METRIC
 Allowed values: IMPERIAL, METRIC, BRITISH
 
