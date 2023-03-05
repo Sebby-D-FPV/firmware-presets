@@ -760,7 +760,7 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_DJI - Copie.txt",
+      "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_DJI.txt",
       "hash": "2162bcc821e8eb6d0cc4fd446282d27576a3dd5241db3bf5bc9996331b550e29",
       "title": "Sebby_D's_OSD_GPS_DJI",
       "firmware_version": [
@@ -775,7 +775,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_DJI_HDZ.txt",
+      "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_HDZ.txt",
       "hash": "02cf839231581788f227bed7f0498693d1d7793a643cd71aa9d5d119211c8d31",
       "title": "Sebby_D's_OSD_GPS_HDZ",
       "firmware_version": [
