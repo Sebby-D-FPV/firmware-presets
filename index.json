@@ -135,7 +135,8 @@
     "firmware_version": [
       "4.2",
       "4.3",
-      "4.4"
+      "4.4",
+      "4.5"
     ],
     "category": [
       "BNF",
@@ -228,7 +229,7 @@
   "presets": [
     {
       "fullPath": "presets/4.3/bnf/Mobula 7 Parascolaire.txt",
-      "hash": "882af4e40298c486ca11a4bd55846d8e884bea8fed151ab2ed23e3f4875d669d",
+      "hash": "ba825c7037c695b6c78e272d67bd0befac4b1e1c8d38dcdc20e6f005e40385cc",
       "title": "Mobula7 1s Parascolaire",
       "firmware_version": [
         "4.3"
@@ -297,11 +298,12 @@
     },
     {
       "fullPath": "presets/4.3/modes/Sebby_D's_Modes_ELRS.txt",
-      "hash": "7dd22dbcdc70e75917bda465d7869bb35f61cc714b46cd46b7ba4271acc790ec",
+      "hash": "9249e507cd5fd29e4c4ee2daa8e3e5d77e9bf98535b4bb383373c5c7ae25a83a",
       "title": "Sebby_D's_Modes_ELRS",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -433,10 +435,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Sebby_D's_rates.txt",
-      "hash": "1f1ad98db8352ca0fa75061f78a9ac3468caf91eec041fad9142f33086807f83",
+      "hash": "64dd542e8d8b1fce378eb8cb162403d4bff79a082f702d3464ba63424440f631",
       "title": "Sebby_D's_rates",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
@@ -776,6 +780,36 @@
     },
     {
       "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_HDZ.txt",
+      "hash": "4de6f0f4e2edcf5ce84fc14be51b1ab3548b17ebe0914ca6ffbecb955adbc3ab",
+      "title": "Sebby_D's_OSD_GPS_HDZ",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "GPS"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/OSD/Sebby_D's_OSD_GPS_DJI.txt",
+      "hash": "e687ba5d7e69d4f8256accfeb16fc99987fa8a118349d4ea864d0aed4ca7a068",
+      "title": "Sebby_D's_OSD_GPS_DJI",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "GPS"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/OSD/Sebby_D's_OSD_GPS_HDZ.txt",
       "hash": "4de6f0f4e2edcf5ce84fc14be51b1ab3548b17ebe0914ca6ffbecb955adbc3ab",
       "title": "Sebby_D's_OSD_GPS_HDZ",
       "firmware_version": [

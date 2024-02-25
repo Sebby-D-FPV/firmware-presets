@@ -1,6 +1,7 @@
 #$ TITLE: Sebby_D's_Modes_ELRS
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: MODES
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: modes, aux, switch
@@ -8,7 +9,6 @@
 #$ DESCRIPTION: Derived from JB's "all on one aux" configuration, adapted to ELRS, AirMode on a Switch and a Prearm Security
 #$ DESCRIPTION:
 #$ DESCRIPTION: Arm, Angle, Beeper, Blackbox, Blackbox Erase, Turtle Mode, PreArm, VTX Pitmode
-#$ INCLUDE: presets\4.3\modes\defaults.txt
 
 # aux switch settings
 
