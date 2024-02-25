@@ -165,6 +165,7 @@
       "50Hz",
       "9ms",
       "adjustments",
+      "Analog",
       "aux",
       "basic",
       "clear",
@@ -843,6 +844,22 @@
         "modes",
         "aux",
         "switch"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/OSD/Sebby_D's_OSD_ANALOG.txt",
+      "hash": "cec928c184a11f801809214c1c67b99b85daf69d64757468c7188ca8b1c7c396",
+      "title": "Sebby_D's_OSD_ANALOGUE",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Analog"
       ],
       "author": "Sebby_D_FPV",
       "priority": 0
