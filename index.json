@@ -849,10 +849,11 @@
     },
     {
       "fullPath": "presets/4.5/OSD/Sebby_D's_OSD_GPS_DJI.txt",
-      "hash": "e687ba5d7e69d4f8256accfeb16fc99987fa8a118349d4ea864d0aed4ca7a068",
+      "hash": "d4eaf358f1aefeda5573e24fc2d41f8e11fb3e4ac9ff4e1bf760913b47b69cf2",
       "title": "Sebby_D's_OSD_GPS_DJI",
       "firmware_version": [
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
@@ -864,10 +865,11 @@
     },
     {
       "fullPath": "presets/4.5/OSD/Sebby_D's_OSD_GPS_HDZ.txt",
-      "hash": "4de6f0f4e2edcf5ce84fc14be51b1ab3548b17ebe0914ca6ffbecb955adbc3ab",
+      "hash": "455688774d8d42352770ab2685861f14e01653245c6127e24150c752396811d1",
       "title": "Sebby_D's_OSD_GPS_HDZ",
       "firmware_version": [
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
