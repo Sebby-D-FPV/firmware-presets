@@ -163,9 +163,7 @@
       "250Hz",
       "500Hz",
       "50Hz",
-      "6pos switch",
       "9ms",
-      "actual",
       "adjustments",
       "aux",
       "basic",
@@ -173,20 +171,15 @@
       "debug",
       "default",
       "defaults",
-      "digital",
       "Display name",
-      "divimath",
       "ELRS",
       "EndPoints",
       "etc..",
       "express",
       "filter",
       "filters",
-      "freestyle",
       "frsky",
       "GPS",
-      "HDzero",
-      "karatebrot",
       "leds",
       "link",
       "Mamba",
@@ -197,8 +190,6 @@
       "OSD",
       "pid",
       "pro32",
-      "race v1",
-      "race v2",
       "rates",
       "RC",
       "rc link",
@@ -215,14 +206,11 @@
       "tbs",
       "tune",
       "TX500",
-      "tx5m.1",
       "unify",
       "VBat",
       "vtx",
       "vtx table",
       "vtxtable",
-      "whoop",
-      "whoop lite",
       "Zeus"
     ]
   },
@@ -417,25 +405,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "9d063433102e8340d3d0ad396f6dc998c7030c0b9ecc4bb2a6c5b86a5def07fe",
-      "title": "Default rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "rates",
-        "actual"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/rates/Sebby_D's_rates.txt",
-      "hash": "64dd542e8d8b1fce378eb8cb162403d4bff79a082f702d3464ba63424440f631",
+      "hash": "3180d5fdb1cc0bd7132f7f0925d565cc3afed7ef8f4863a63858145c47ceecbb",
       "title": "Sebby_D's_rates",
       "firmware_version": [
         "4.3",
@@ -622,29 +593,13 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/vtx/defaults.txt",
-      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
-      "title": "Default 4.3 VTX settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "clear",
-        "vtx"
-      ],
-      "author": "Betaflight",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/defaults_vtx_tables.txt",
-      "hash": "ca7751007ea115e4aef9cfc8051832205100ab4d0be45b9694d506f193cdb1d6",
+      "hash": "1f764ace9f39cba11c1567817f67ddc192d4f2649b561b99e516038c1fabe487",
       "title": "Default 4.3 VTX table settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "OFFICIAL",
@@ -659,40 +614,13 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/HDZero.txt",
-      "hash": "802f5dab99316d7b0c22bd4813817eb7a207d3c401adfc6a90cd3966b64fd12f",
-      "title": "HDZero VTXs",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "HDzero",
-        "divimath",
-        "SA 2.1",
-        "digital",
-        "whoop",
-        "whoop lite",
-        "race v1",
-        "race v2",
-        "freestyle",
-        "tx5m.1",
-        "karatebrot"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/HGLRC_Zeus_Nano_VTX.txt",
-      "hash": "a82962cab2aff4ea4acae888e3fd0a6fd0af117f54db48d87db15c6d44e5782a",
+      "hash": "af19773047b2afd6ea31dc68fba3b4c096b99c5f3fcd1b2f27ec7c45d674c0a6",
       "title": "HGLRC_Zeus_Nano_VTX_Table",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
@@ -707,11 +635,12 @@
     },
     {
       "fullPath": "presets/4.3/vtx/MAMBA_TX500_0401_VTX_Table.txt",
-      "hash": "76c334b657e5a6ad1f3346086e4b27a80a4d567c4252ebff9c54d102b60baa4b",
+      "hash": "3ccccfd2c096053b58584e8ced7cafec0d1ce4cb998813cd3dfe7b78b7eb3802",
       "title": "MAMBA_TX500_0401_VTX_Table",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
@@ -726,12 +655,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
-      "hash": "5cd96ef3198c56a095887f66b34920635167597b06ef9af1d908481e73034b72",
+      "hash": "437dee74065cdca3625f5e9d51099e950aa16be94311ce89e71ea9e004dea1cb",
       "title": "TBS Unify Pro32 Nano - SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -748,20 +678,23 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/VTX 6pos switch.txt",
-      "hash": "6c9744ed9743f4e84bdea4a7b6b0201a6c4d4f93a1d513b10ca883d7aed28a0b",
-      "title": "VTX 6pos switch",
+      "fullPath": "presets/4.4/modes/Sebby_D's_Modes_ELRS.txt",
+      "hash": "9249e507cd5fd29e4c4ee2daa8e3e5d77e9bf98535b4bb383373c5c7ae25a83a",
+      "title": "Sebby_D's_Modes_ELRS",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
-      "category": "VTX",
+      "category": "MODES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "6pos switch",
-        "vtx"
+        "modes",
+        "aux",
+        "switch"
       ],
       "author": "Sebby_D_FPV",
-      "priority": 1000000
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/OSD/Sebby_D's_OSD_GPS_DJI.txt",
@@ -789,6 +722,127 @@
       "status": "EXPERIMENTAL",
       "keywords": [
         "GPS"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/Sebby_D's_rates.txt",
+      "hash": "3180d5fdb1cc0bd7132f7f0925d565cc3afed7ef8f4863a63858145c47ceecbb",
+      "title": "Sebby_D's_rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/defaults_vtx_tables.txt",
+      "hash": "1f764ace9f39cba11c1567817f67ddc192d4f2649b561b99e516038c1fabe487",
+      "title": "Default 4.3 VTX table settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx",
+        "vtxtable"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/HGLRC_Zeus_Nano_VTX.txt",
+      "hash": "af19773047b2afd6ea31dc68fba3b4c096b99c5f3fcd1b2f27ec7c45d674c0a6",
+      "title": "HGLRC_Zeus_Nano_VTX_Table",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Nano",
+        "Zeus"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/MAMBA_TX500_0401_VTX_Table.txt",
+      "hash": "3ccccfd2c096053b58584e8ced7cafec0d1ce4cb998813cd3dfe7b78b7eb3802",
+      "title": "MAMBA_TX500_0401_VTX_Table",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Mamba",
+        "TX500"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/Unify_Pro32_Nano_SA2_1.txt",
+      "hash": "437dee74065cdca3625f5e9d51099e950aa16be94311ce89e71ea9e004dea1cb",
+      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify",
+        "pro32",
+        "nano",
+        "SA 2.1"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/modes/Sebby_D's_Modes_ELRS.txt",
+      "hash": "9249e507cd5fd29e4c4ee2daa8e3e5d77e9bf98535b4bb383373c5c7ae25a83a",
+      "title": "Sebby_D's_Modes_ELRS",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "modes",
+        "aux",
+        "switch"
       ],
       "author": "Sebby_D_FPV",
       "priority": 0
@@ -822,6 +876,108 @@
       ],
       "author": "Sebby_D_FPV",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/Sebby_D's_rates.txt",
+      "hash": "3180d5fdb1cc0bd7132f7f0925d565cc3afed7ef8f4863a63858145c47ceecbb",
+      "title": "Sebby_D's_rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/defaults_vtx_tables.txt",
+      "hash": "1f764ace9f39cba11c1567817f67ddc192d4f2649b561b99e516038c1fabe487",
+      "title": "Default 4.3 VTX table settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx",
+        "vtxtable"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/HGLRC_Zeus_Nano_VTX.txt",
+      "hash": "af19773047b2afd6ea31dc68fba3b4c096b99c5f3fcd1b2f27ec7c45d674c0a6",
+      "title": "HGLRC_Zeus_Nano_VTX_Table",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Nano",
+        "Zeus"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/MAMBA_TX500_0401_VTX_Table.txt",
+      "hash": "3ccccfd2c096053b58584e8ced7cafec0d1ce4cb998813cd3dfe7b78b7eb3802",
+      "title": "MAMBA_TX500_0401_VTX_Table",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "table",
+        "Mamba",
+        "TX500"
+      ],
+      "author": "Sebby_D_FPV",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro32_Nano_SA2_1.txt",
+      "hash": "437dee74065cdca3625f5e9d51099e950aa16be94311ce89e71ea9e004dea1cb",
+      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify",
+        "pro32",
+        "nano",
+        "SA 2.1"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
     }
   ]
 }
